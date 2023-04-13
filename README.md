@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<!--
+
 **AlphOmart/AlphOmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me questions about funny or weird facts or about my code. (even if it's actually the same thing 🙄).
 - 📫 How to reach me: On discord, my tag is: Alphom#7119.
 - ⚡ Fun fact: Dany, https://www.youtube.com/watch?v=K0X5A6aURms
--->
